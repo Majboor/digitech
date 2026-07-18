@@ -1,0 +1,32 @@
+NOTICE
+======
+
+This repository is an ARCHIVED SNAPSHOT of a third-party HTML template customization.
+It is NOT an original work of the repository owner.
+
+Underlying template
+-------------------
+The site's design, layout, and the majority of its HTML/CSS/JavaScript originate from the
+commercial HTML template "DigiTech" authored by Laralink (see the `<meta name="author"
+content="Laralink">` tag present on every page). All rights to that template, including any
+associated trademarks, trade dress, and copyright, remain with Laralink and/or its licensors.
+
+Upstream source
+---------------
+This repository was forked from https://github.com/Sharoonss/digitech and contains customization
+commits layered on top of that upstream.
+
+Trademark / copyright
+---------------------
+"DigiTech", "Laralink", and any brand names, logos, or marks appearing in this repository are the
+property of their respective owners. Their inclusion here is for archival and reference purposes
+only and does not imply any affiliation with, sponsorship by, or endorsement from those owners.
+
+Modifications for archival safety
+---------------------------------
+- Portrait photographs of people (team-member and testimonial headshots) were removed and replaced
+  with a neutral placeholder avatar.
+- A live third-party form-submission access key was redacted and replaced with a placeholder.
+
+No warranty is provided. If you are a rights holder and have concerns about this archived copy,
+please open an issue.
